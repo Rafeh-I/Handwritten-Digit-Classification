@@ -26,8 +26,8 @@ This project implements logistic regression classifiers to recognize handwritten
 ## Running the Notebook
 - The project is fully contained in a Jupyter Notebook. Run all cells sequentially to reproduce the analysis.
 - The notebook automatically downloads the MNIST dataset for training and testing.
-- 
+  
 ## Testing and Evaluation
 - The notebook includes evaluation on a separate test set to check model performance and robustness.
--Users can replace the default test set with their own data to see how the model generalizes.
--Accuracy and confusion matrices are computed automatically.
+- Users can replace the default test set with their own data to see how the model generalizes.
+- Accuracy and confusion matrices are computed automatically.
