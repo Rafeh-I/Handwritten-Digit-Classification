@@ -12,6 +12,7 @@ This project implements logistic regression classifiers to recognize handwritten
 - Digits '8' are the hardest to classify correctly
 - Logistic regression provides a strong linear baseline
 - PCA and regularization improve generalization in high-dimensional data
+- Model achieves ~92% test accuracy on the full MNIST 28×28 dataset
 
 ## Dataset
 - Original MNIST dataset (28×28 images) is automatically downloaded in the notebook
